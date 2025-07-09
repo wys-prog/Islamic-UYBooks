@@ -1,0 +1,11 @@
+// ./ is:
+// https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/
+[
+  {
+    "type": "book",
+    "title": "Quran - Uthmaniyah",
+    "description": "Mushaf Uthmani",
+    "cover-link":"https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/images/Quran-cover.jpg",
+    "content-link": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/books/Quran.uybook"
+  }
+]

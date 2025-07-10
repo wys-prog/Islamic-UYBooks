@@ -1,5 +1,13 @@
 [
   {
+    "type": "meta", 
+    "name": "Islamic Library (from Uylib)"
+  },
+  {
+    "type": "library",
+    "url": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/Risalei-i_Nur.json"
+  },
+  {
     "type": "book",
     "title": "Quran - Uthmaniyah",
     "author": "Allah",

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "meta",
+    "name": "French Islamic Library (from Uylib)"
+  },
+  {
+    "type": "book",
+    "title": "Risâle-i Nûr - Birinci Söz (Français)",
+    "author": "Saïd Nursî",
+    "description": "Birinci Söz (“First Word”) is the opening discourse of the Risale-i Nur collection, offering spiritual guidance and reflections on the power of divine remembrance and faith.",
+    "cover-link":"https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/images/Risale-i_Nur/Risale-i_Nur_Birinci_Söz.png",
+    "content-link": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/mainbooks/Risale-i_Nur/fr/Risâle-i_Nûr_-_Birinci_Söz_(FR).uybook"
+  }
+]

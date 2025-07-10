@@ -8,6 +8,14 @@
     "url": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/Risale-i_Nur.json"
   },
   {
+    "type": "library",
+    "url": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/pages/Risale-i_Nur/en/Islamic-en-books.json"
+  },
+  {
+    "type": "library",
+    "url": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/pages/Risale-i_Nur/fr/Islamic-fr-books.json"
+  },
+  {
     "type": "book",
     "title": "Quran - Uthmaniyah",
     "author": "Allah",
